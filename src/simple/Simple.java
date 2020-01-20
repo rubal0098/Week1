@@ -9,6 +9,7 @@ package simple;
  *
  * @author rubal
  * date 2020,20
+ * Rubal Singh
  */
 public class Simple {
 
