@@ -8,6 +8,7 @@ package simple;
 /**
  *
  * @author rubal
+ * date 2020,20
  */
 public class Simple {
 
